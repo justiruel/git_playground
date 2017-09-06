@@ -1,3 +1,3 @@
 # git_playground
 
-tesddfff
+https://genome.sph.umich.edu/w/images/6/64/SmartGit.pdf
